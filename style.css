@@ -29,6 +29,10 @@ p{
     font-size: 1.3rem;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
 .btn{
     padding: 20px 35px;
     margin-top: 30px;
@@ -172,6 +176,21 @@ pre{
 }
 
 /* card-ends-here */
+
+.social-icon{
+    text-align: center;
+    margin: 25px 0px 45px 0px;
+}
+
+.icon-btn{
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    margin: 10px 30px;
+    background: transparent;
+    
+    
+}
 
 .achivement{
     width: 17in;
